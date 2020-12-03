@@ -11,7 +11,7 @@ Changing the files in ViewController and adding webview.xxx property.
 
 
 <p float="left">
-  <img src="images/IMG_0068.PNG" width="300" />
+  <img src="images/IMG_0074.PNG" width="300" />
   <img src="images/IMG_0069.PNG" width="300" /> 
   <img src="images/IMG_0070.PNG" width="300" />
 </p>
@@ -20,5 +20,5 @@ Changing the files in ViewController and adding webview.xxx property.
   <img src="images/IMG_0071.PNG" width="300" />
   <img src="images/IMG_0072.PNG" width="300" /> 
   <img src="images/IMG_0073.PNG" width="300" />
-  <img src="images/IMG_0074.PNG" width="300" />
+  
 </p>
